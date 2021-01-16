@@ -1,0 +1,1 @@
+각 backend, frontend 폴더에서 npm install을 하여 node_module을 설치해야 합니다.
